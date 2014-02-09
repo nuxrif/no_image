@@ -42,12 +42,6 @@
 <div id="copyright">
 &copy; <?php echo date('Y'); ?>  <?php bloginfo( 'name' ) ?>
 </div>
-<!-- লোগো আরাম্ব --!>
-<img src="http://www.gnu.org/graphics/gplv3-127x51.png" alt=""/>
-<img src="http://www.debian.org/Pics/openlogo-50.png" alt=""/>
-<img src="https://www.kernel.org/theme/images/logos/tux.png" alt=""/>
-<img src="http://nginx.com/static/images/logos/nginx_200.png" alt=""/>
-<!-- লোগো শেষ --!>
 
 <!-- END copyright -->
     	
